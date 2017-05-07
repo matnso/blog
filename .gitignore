@@ -21,4 +21,4 @@
 .byebug_history
 
 # Ignore Gemfile.lock for Linux Production Server
-.Gemfile.lock
+Gemfile.lock
